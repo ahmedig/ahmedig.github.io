@@ -24,7 +24,7 @@ your facebook, twitter, linkedin, or just disable all of them.
 	<a href="https://github.com/ahmedig" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/in/ahmedig" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="https://twitter.com/ahmedig" target="_blank"><i class="fa fa-twitter-square"></i></a>
-	<a href="https://www.facebook.com/ahmedig" target="_blank"><i class="fa facebook"></i></a>
+	<a href="https://www.facebook.com/ahmedig" target="_blank"><i class="fab fa-facebook-square"></i></a>
 </span>
 
 <div class="col three caption">
